@@ -2,7 +2,7 @@ Predictive modeling with Python
 ===============================
 
 An implementation of a predictive modeling approach based on the decision tree algorithm.
-In this project, we will implement and evaluate this approach on two datasets [Wine](http://archive.ics.uci.edu/ml/datasets/Wine)
+In this project, we will implement and evaluate a predictive modeling approach on two datasets; [Wine](http://archive.ics.uci.edu/ml/datasets/Wine)
 and [Vetebral column](http://archive.ics.uci.edu/ml/datasets/vertebral+column)
 
 
