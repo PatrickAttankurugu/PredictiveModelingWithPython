@@ -56,4 +56,4 @@ Project Organization
 
 
 --------
-created with love by Data Mining Project Group 8: [University of Ghana](https://www.ug.edu.gh/)
+                                   created with love by Data Mining Project Group 8: [University of Ghana](https://www.ug.edu.gh/)
