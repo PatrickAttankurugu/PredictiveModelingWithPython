@@ -1,10 +1,7 @@
-Predictive modeling with Python 
-===============================
+data_science_job_market_analysis
+==============================
 
-An implementation of a predictive modeling approach based on the decision tree algorithm.
-In this project, we will implement and evaluate a predictive modeling approach on two datasets; [Wine](http://archive.ics.uci.edu/ml/datasets/Wine)
-and [Vetebral column](http://archive.ics.uci.edu/ml/datasets/vertebral+column)
-
+An exploratory analysis of the data science job market
 
 Project Organization
 ------------
@@ -56,4 +53,5 @@ Project Organization
 
 
 --------
-   created with love by Data Mining Project Group 8: [University of Ghana](https://www.ug.edu.gh/)
+
+<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
